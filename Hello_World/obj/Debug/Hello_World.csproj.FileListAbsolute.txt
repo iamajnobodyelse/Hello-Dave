@@ -1,0 +1,12 @@
+J:\Homework\CSC202\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+J:\Homework\CSC202\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+J:\Homework\CSC202\Hello_World\Hello_World\obj\Debug\ResolveAssemblyReference.cache
+J:\Homework\CSC202\Hello_World\Hello_World\obj\Debug\Hello_World.exe
+J:\Homework\CSC202\Hello_World\Hello_World\obj\Debug\Hello_World.pdb
+C:\Users\PyroTech\Documents\Homework\CSC202\Hello_World\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\PyroTech\Documents\Homework\CSC202\Hello_World\Hello_World\obj\Debug\Hello_World.pdb
+C:\Users\PyroTech\Documents\Homework\CSC202\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\PyroTech\Documents\Homework\CSC202\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\PyroTech\Documents\Homework\CSC202\Hello_World\Hello_World\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PyroTech\Documents\Homework\CSC202\Hello_World\Hello_World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\PyroTech\Documents\Homework\CSC202\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.GenerateResource.Cache
